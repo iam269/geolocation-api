@@ -6,6 +6,8 @@ A sophisticated, modern web application built with cutting-edge technologies tha
 
 The app features a responsive, mobile-first design with smooth animations and a glass-morphism aesthetic, ensuring an exceptional user experience across all devices. Whether you're a developer testing location-based features, a traveler documenting your journey, or simply curious about your exact position on the planet, this tool provides accurate, privacy-conscious location insights.
 
+**Live Demo**: [iam269.github.io/geolocation-api/](https://iam269.github.io/geolocation-api/)
+
 ## 🌟 Key Features
 
 ### 📍 Advanced Location Detection

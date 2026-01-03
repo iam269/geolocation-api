@@ -393,8 +393,7 @@ We welcome contributions! Please follow these guidelines:
 ## 📞 Support & Community
 
 ### Getting Help
-- 📧 **Email**: support@geolocation-app.com
-- 💬 **Discord**: Join our community server
+- 📧 **Email**: ionitaaurel32@gmail.com
 - 🐛 **Issues**: GitHub Issues for bug reports
 - 📖 **Documentation**: Comprehensive docs available
 
@@ -417,4 +416,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the Geolocation API Team**
+**Made with ❤️ by the iam269**

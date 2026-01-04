@@ -187,7 +187,8 @@ const Index = () => {
         {/* Footer */}
         <footer className="py-4 text-center text-xs text-muted-foreground border-t border-border/50">
           <p>
-            Powered by OpenStreetMap • Locația ta rămâne privată
+            &copy; {new Date().getFullYear()} Locația Mea. Toate drepturile rezervate.
+            Acest site a fost creat de Ioniță Aurel-Mihai.
           </p>
         </footer>
       </div>

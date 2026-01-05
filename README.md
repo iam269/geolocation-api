@@ -1,5 +1,7 @@
 # 🗺️ Geolocation API Web App
 
+![Geolocation App Screenshot](public/image.png)
+
 ## 📖 Project Overview
 
 A sophisticated, modern web application built with cutting-edge technologies that empowers users to explore their geographical location through advanced GPS technology. This application seamlessly integrates the browser's Geolocation API with interactive mapping capabilities, providing users with real-time location data, precise coordinates, and comprehensive address information through reverse geocoding services.
